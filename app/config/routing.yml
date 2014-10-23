@@ -1,0 +1,5 @@
+lolo:
+    resource: "@loloBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
